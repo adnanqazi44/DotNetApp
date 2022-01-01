@@ -1,0 +1,30 @@
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\bin\Debug\GroceryTuto.exe.config
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\bin\Debug\GroceryTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\bin\Debug\GroceryTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.csprojResolveAssemblyReference.cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Login.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Splash.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Properties.Resources.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.csproj.GenerateResource.Cache
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.exe
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.pdb
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\bin\Debug\Guna.UI2.dll
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Billing.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Employees.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Items.resources
+c:\users\afwadmin\documents\visual studio 2015\Projects\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.AdminLogin.resources
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\bin\Debug\GroceryTuto.exe.config
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.exe
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.pdb
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\bin\Debug\GroceryTuto.exe
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\bin\Debug\GroceryTuto.pdb
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.csprojResolveAssemblyReference.cache
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.AdminLogin.resources
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Billing.resources
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Employees.resources
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Items.resources
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Login.resources
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Splash.resources
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.Properties.Resources.resources
+C:\Users\Adnan Qazi\Desktop\GroceryTuto\GroceryTuto\GroceryTuto\obj\Debug\GroceryTuto.csproj.GenerateResource.Cache
